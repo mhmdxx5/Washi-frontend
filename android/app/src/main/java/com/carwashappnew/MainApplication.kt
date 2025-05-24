@@ -1,4 +1,4 @@
-package com.carwashappnew
+package com.carwashgasel2025
 
 import android.app.Application
 import com.facebook.react.PackageList
